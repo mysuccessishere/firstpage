@@ -1,0 +1,13 @@
+header{
+    background-color: #ffc0cb;
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+    border-style: solid;
+    border-width: 2mm;
+    border-color: #a9a9a9;
+}
+footer{
+    background-color: #ffc0cb;
+}
